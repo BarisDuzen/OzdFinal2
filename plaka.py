@@ -2,7 +2,7 @@ class PlateTuringRecognizer:
     BLANK = "_"
 
     DIGITS = set("0123456789")
-    UPPERCASE_LETTERS = set("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    UPPERCASE_LETTERS = set("ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ")
 
     DIGIT_MARK = "N"    
     LETTER_MARK = "L"  
